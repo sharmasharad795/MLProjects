@@ -39,7 +39,11 @@ Different approaches are used for this problem which include : L1 Penalized SVMs
 
 
 6) BreastCancerPrediction - Classification between benign and malignant tumors using FOUR differenet approaches : 
+
     Supervised learning using L1 Penalised SVM
+    
     Self training coupled with L1 penalised SVM
+    
     Unsupervised learning using Spectral and K means clustering
+    
     Active learning using SVM
